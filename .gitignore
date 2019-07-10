@@ -1,0 +1,6 @@
+# Windows image file caches
+Thumbs.db
+credentials.json
+RUN.lnk
+push.bat
+*.iso
